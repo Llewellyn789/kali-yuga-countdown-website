@@ -59,7 +59,7 @@ const CountdownTimer = () => {
 
   return (
     <div className="countdown-container">
-      <h2>Time Remaining in Kali Yuga</h2>
+      <h2>Time Remaining in Kali Yuga:</h2>
       <div className="countdown-timer">
         <div className="countdown-segment">
           <span className="countdown-value">{timeLeft.years}</span>
